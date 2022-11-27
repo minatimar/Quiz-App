@@ -10,7 +10,7 @@ h1 {
   font-size: 50px;
   padding: 15px;
   background-color: green;
-  margin: 0.5em;
+  margin: 5px;
   color: aliceblue;
   border-radius: 5px;
 }
@@ -44,6 +44,7 @@ h1 {
   display: flex;
   justify-content: space-around;
   list-style-type: none;
+  margin: 10px;
 }
 
 .QuestionCard__HashtagList li {
