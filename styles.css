@@ -44,8 +44,7 @@ h1 {
   display: flex;
   justify-content: space-around;
   list-style-type: none;
-  margin: 10px;
-}
+  }
 
 .QuestionCard__HashtagList li {
   border: 2px solid green;
@@ -53,6 +52,7 @@ h1 {
   border-radius: 5px;
   background-color: red;
   color: aliceblue;
+  margin: 10px;
 }
 
 .navbar {
